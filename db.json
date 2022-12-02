@@ -22,7 +22,7 @@
       "newArrival": true,
       "image": "https://drive.google.com/file/d/1iomF1dk6PzWXNi4v4Nn8jSHUgLXUp3dd/view?usp=share_link",
       "rating_rate": 4.8,
-      "rating_count": 175,  
+      "rating_count": 175  
     },
     {
       "id": 2,
@@ -45,8 +45,8 @@
       "newArrival": true,
       "image": "https://drive.google.com/file/d/1dhGFJl5cXCnOpS_kumi4fnR-uHMKiIxV/view?usp=share_link",
       "rating_rate": 4.27,
-      "rating_count": 221,  
-    },
+      "rating_count": 221 
+    }
   ],
   "main_categories": 
   [
@@ -65,6 +65,6 @@
     {
       "category_id": 4,
       "label": "accessories",
-    },
+    }
    ] 
 }  
