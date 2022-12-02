@@ -1,11 +1,87 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "brand": "21WN",
+      "title": "Reversible angora cardigan",
+      "price": {
+            "total": 122.99,
+            "currency": "USD",
+        },
+      "color": {
+            "text": "Dark gray",
+            "hexColor": "0xffDCC4A9"
+        },
+      "available sizes": ["s", "m", "l"],
+      "description": "Add a boho look to any outfit with this long women's pointelle cardigan from 21WN",
+      "material": "Acrylic, cotton, polyester, nylon, spandex, other fiber",
+      "countryOfProduction": "Bangladesh",
+      "care": {
+        "bleach": true,
+        "trumble_dry": true,
+        "dry_clean": true,
+        "use_iron": false,
+      },
+      "main_category": "women",
+      "subcategories": ["apparel", "jumpers&cardigans"],
+      "newArrival": true,
+      "image": "https://drive.google.com/file/d/1iomF1dk6PzWXNi4v4Nn8jSHUgLXUp3dd/view?usp=share_link",
+      "rating": {
+        "rate": 4.8,
+        "count": 175
+      }   
+    },
+      {
+      "id": 2,
+      "brand": "21WN",
+      "title": "Cozy cardigan",
+      "price": {
+            "total": 152,
+            "currency": "USD",
+        },
+      "color": {
+            "text": "Light green",
+            "hexColor": "0xffBCF583"
+        },
+      "available sizes": ["s", "m", "l"],
+      "description": "21WN cable soft and cosy cardigan. This staple knit cardigan is the ultimate must have; wear yours with everything from skinny jeans to joggers!",
+      "material": "82% Acrylic, 10% Nylon, 8% Polyester",
+      "countryOfProduction": "Bangladesh",
+      "care": {
+        "bleach": false,
+        "trumble_dry": true,
+        "dry_clean": true,
+        "use_iron": false,
+      },
+      "main_category": "women",
+      "subcategories": ["apparel", "jumpers&cardigans"],
+      "newArrival": true,
+      "image": "https://drive.google.com/file/d/1dhGFJl5cXCnOpS_kumi4fnR-uHMKiIxV/view?usp=share_link",
+      "rating": {
+        "rate": 4.72,
+        "count": 221
+      }   
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+  "main_categories": [
+    {
+      "category_id": 1,
+      "label": "women",
+    },
+    {
+      "category_id": 2,
+      "label": "men",
+    },
+    {
+      "category_id": 3,
+      "label": "beauty",
+    },
+    {
+      "category_id": 4,
+      "label": "accessories",
+    },
+  ],
+  
 }
+
