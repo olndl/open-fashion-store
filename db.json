@@ -1,70 +1,55 @@
 {
-  "products": [
+  "products": 
+  [
     {
       "id": 1,
       "brand": "21WN",
       "title": "Reversible angora cardigan",
-      "price": {
-            "total": 122.99,
-            "currency": "USD",
-        },
-      "color": {
-            "text": "Dark gray",
-            "hexColor": "0xffDCC4A9"
-        },
+      "price": 122.99,
+      "currency": "USD",
+      "color_name": "Dark gray",
+      "hexColor": "0xffDCC4A9",
       "available sizes": ["s", "m", "l"],
       "description": "Add a boho look to any outfit with this long women's pointelle cardigan from 21WN",
       "material": "Acrylic, cotton, polyester, nylon, spandex, other fiber",
       "countryOfProduction": "Bangladesh",
-      "care": {
-        "bleach": true,
-        "trumble_dry": true,
-        "dry_clean": true,
-        "use_iron": false,
-      },
+      "care_bleach": true,
+      "care_trumble_dry": true,
+      "care_dry_clean": true, 
+      "care_use_iron": false,
       "main_category": "women",
       "subcategories": ["apparel", "jumpers&cardigans"],
       "newArrival": true,
       "image": "https://drive.google.com/file/d/1iomF1dk6PzWXNi4v4Nn8jSHUgLXUp3dd/view?usp=share_link",
-      "rating": {
-        "rate": 4.8,
-        "count": 175,
-      }   
+      "rating_rate": 4.8,
+      "rating_count": 175,  
     },
-      {
+    {
       "id": 2,
       "brand": "21WN",
       "title": "Cozy cardigan",
-      "price": {
-            "total": 152,
-            "currency": "USD",
-        },
-      "color": {
-            "text": "Light green",
-            "hexColor": "0xffBCF583",
-        },
+      "price": 152,
+      "currency": "USD",
+      "color_name": "Light green",
+      "hexColor": "0xffBCF583",
       "available sizes": ["s", "m", "l"],
       "description": "21WN cable soft and cosy cardigan. This staple knit cardigan is the ultimate must have; wear yours with everything from skinny jeans to joggers!",
       "material": "82% Acrylic, 10% Nylon, 8% Polyester",
       "countryOfProduction": "Bangladesh",
-      "care": {
-        "bleach": false,
-        "trumble_dry": true,
-        "dry_clean": true,
-        "use_iron": false,
-      },
+      "care_bleach": false,
+      "care_trumble_dry": true,
+      "care_dry_clean": true, 
+      "care_use_iron": false,
       "main_category": "women",
       "subcategories": ["apparel", "jumpers&cardigans"],
       "newArrival": true,
       "image": "https://drive.google.com/file/d/1dhGFJl5cXCnOpS_kumi4fnR-uHMKiIxV/view?usp=share_link",
-      "rating": {
-        "rate": 4.72,
-        "count": 221,
-      },   
+      "rating_rate": 4.27,
+      "rating_count": 221,  
     },
   ],
-  "main_categories": {
-    "list": [
+  "main_categories": 
+  [
     {
       "category_id": 1,
       "label": "women",
@@ -81,6 +66,5 @@
       "category_id": 4,
       "label": "accessories",
     },
-  ]
-  }
+   ] 
 }  
