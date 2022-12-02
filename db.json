@@ -28,7 +28,7 @@
       "image": "https://drive.google.com/file/d/1iomF1dk6PzWXNi4v4Nn8jSHUgLXUp3dd/view?usp=share_link",
       "rating": {
         "rate": 4.8,
-        "count": 175
+        "count": 175,
       }   
     },
       {
@@ -41,7 +41,7 @@
         },
       "color": {
             "text": "Light green",
-            "hexColor": "0xffBCF583"
+            "hexColor": "0xffBCF583",
         },
       "available sizes": ["s", "m", "l"],
       "description": "21WN cable soft and cosy cardigan. This staple knit cardigan is the ultimate must have; wear yours with everything from skinny jeans to joggers!",
@@ -59,11 +59,10 @@
       "image": "https://drive.google.com/file/d/1dhGFJl5cXCnOpS_kumi4fnR-uHMKiIxV/view?usp=share_link",
       "rating": {
         "rate": 4.72,
-        "count": 221
-      }   
+        "count": 221,
+      },   
     },
   ],
-  
   "main_categories": [
     {
       "category_id": 1,
@@ -81,5 +80,5 @@
       "category_id": 4,
       "label": "accessories",
     },
-  ],
-  
+  ]
+}  
