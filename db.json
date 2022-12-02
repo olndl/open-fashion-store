@@ -52,19 +52,19 @@
   [
     {
       "category_id": 1,
-      "label": "women",
+      "label": "women"
     },
     {
       "category_id": 2,
-      "label": "men",
+      "label": "men"
     },
     {
       "category_id": 3,
-      "label": "beauty",
+      "label": "beauty"
     },
     {
       "category_id": 4,
-      "label": "accessories",
+      "label": "accessories"
     }
    ] 
 }  
