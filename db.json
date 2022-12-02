@@ -63,7 +63,8 @@
       },   
     },
   ],
-  "main_categories": [
+  "main_categories": {
+    "list": [
     {
       "category_id": 1,
       "label": "women",
@@ -81,4 +82,5 @@
       "label": "accessories",
     },
   ]
+  }
 }  
