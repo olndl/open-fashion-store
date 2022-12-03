@@ -28,7 +28,7 @@
       "main_category": "women",
       "subcategories": ["apparel", "jumpers&cardigans"],
       "new_arrival": true,
-      "image": "https://drive.google.com/file/d/1iomF1dk6PzWXNi4v4Nn8jSHUgLXUp3dd/view?usp=share_link",
+      "image": "https://www.shoppisticated.com/wp-content/uploads/DSC_1670-768x1152.jpg",
       "rating": {
         "rate": 4.8,
         "count": 175
@@ -44,8 +44,8 @@
       },
       "pallete": [
         {
-         "color_name": "Light green",
-         "hex_color": "0xffBCF583"
+         "color_name": "Dark green",
+         "hex_color": "0xff016943"
         }
       ],      
       "available_sizes": ["s", "m", "l"],
@@ -61,7 +61,7 @@
       "main_category": "women",
       "subcategories": ["apparel", "jumpers&cardigans"],
       "new_arrival": true,
-      "image": "https://drive.google.com/file/d/1dhGFJl5cXCnOpS_kumi4fnR-uHMKiIxV/view?usp=share_link",
+      "image": "https://i.pinimg.com/736x/36/1f/f7/361ff7df02a65c75c4657de2d341b16e.jpg",
       "rating": {
         "rate": 4.27,
         "count": 221
