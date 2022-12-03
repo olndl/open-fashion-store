@@ -12,7 +12,7 @@
       "pallete": [
         {
          "color_name": "Dark gray",
-         "hex_color": "0xffDCC4A9"
+         "hex_color": "#DCC4A9"
         }
       ],
       "available_sizes": ["s", "m", "l"],
@@ -45,7 +45,7 @@
       "pallete": [
         {
          "color_name": "Dark green",
-         "hex_color": "0xff016943"
+         "hex_color": "#016943"
         }
       ],      
       "available_sizes": ["s", "m", "l"],
