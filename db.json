@@ -71,6 +71,10 @@
   "main_categories": 
   [
     {
+      "category_id": 0,
+      "label": "all"
+    },
+    {
       "category_id": 1,
       "label": "women"
     },
