@@ -31,7 +31,7 @@
       "image": "https://www.shoppisticated.com/wp-content/uploads/DSC_1670-768x1152.jpg",
       "rating": {
         "rate": 4.8,
-        "count": 175
+        "count": 5
       }
     },
     {
@@ -64,7 +64,167 @@
       "image": "https://i.pinimg.com/736x/36/1f/f7/361ff7df02a65c75c4657de2d341b16e.jpg",
       "rating": {
         "rate": 4.27,
-        "count": 221
+        "count": 1
+      }
+    },
+    {
+      "id": 3,
+      "brand": "MOHAN",
+      "title": "Oblong bag",
+      "price": {
+        "total": 110,
+        "currency": "USD"
+      },
+      "pallete": [
+        {
+         "color_name": "Black",
+         "hex_color": "#000000"
+        }
+      ],      
+      "available_sizes": ["one size"],
+      "description": "Take a trip to your favorite spot with this convenient tote featuring a removable shoulder strap, a padded laptop sleeve and a travel-ready trolly pouch.",
+      "material": "Polyester with faux leather trim",
+      "country_of_production": "Armenia",
+      "care": {
+          "bleach": false,
+          "trumble_dry": false,
+          "dry_clean": false, 
+          "use_iron": false
+      },
+      "main_category": "women",
+      "subcategories": ["bag"],
+      "new_arrival": true,
+      "image": "https://cs1.livemaster.ru/storage/ad/36/c102d7692c103e4f48fcf82d9bdt--leather-bag-bag-pack-medium-size-with-pocket-and-applique.jpg",
+      "rating": {
+        "rate": 3.5,
+        "count": 9
+      }
+    },
+     {
+      "id": 4,
+      "brand": "Lame",
+      "title": "Formal lined button front coat in camel",
+      "price": {
+        "total": 559,
+        "currency": "USD"
+      },
+      "pallete": [
+        {
+         "color_name": "Brown",
+         "hex_color": "#964B00"
+        }
+      ],      
+      "available_sizes": ["xs", "s", "l"],
+      "description": "Keep it classic during the snowy season with a double-breasted, wooly coat piped with faux leather at the pockets and fashioned with a brushed finish.",
+      "material": "100% Polyurethane, Lining: 100% Polyester, Base Fabric: 100% Polyester",
+      "country_of_production": "USA",
+      "care": {
+          "bleach": true,
+          "trumble_dry": true,
+          "dry_clean": true, 
+          "use_iron": true
+      },
+      "main_category": "women",
+      "subcategories": ["apparel", "coats"],
+      "new_arrival": true,
+      "image": "https://shopogolik-club.ru/media/catalog/product/cache/1/small_image/600x600/17f82f742ffe127f42dca9de82fb58b1/2/2/225-610-.jpg",
+      "rating": {
+        "rate": 4.88,
+        "count": 9
+      }
+    },
+     {
+      "id": 5,
+      "brand": "Lame",
+      "title": "Oversized rubberized trench coat in dusty blue",
+      "price": {
+        "total": 459,
+        "currency": "USD"
+      },
+      "pallete": [
+        {
+         "color_name": "Blue",
+         "hex_color": "#00FFFF"
+        }
+      ],      
+      "available_sizes": ["s", "m", "l"],
+      "description": "Put some polish on a chilly day in this wool-forward coat designed in a classic wrap silhouette.",
+      "material": "100% Polyurethane, Lining: 100% Polyester, Base Fabric: 100% Polyester",
+      "country_of_production": "UK",
+      "care": {
+          "bleach": true,
+          "trumble_dry": true,
+          "dry_clean": true, 
+          "use_iron": true
+      },
+      "main_category": "men",
+      "subcategories": ["apparel", "coats"],
+      "new_arrival": true,
+      "image": "https://i.pinimg.com/originals/5d/ff/57/5dff5780d3a533196cae4ef928dec06e.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 5
+      }
+    },
+    {
+      "id": 6,
+      "brand": "LAMEREI",
+      "title": "Silver plated stainless steel earring and ring set",
+      "price": {
+        "total": 55,
+        "currency": "USD"
+      },
+      "pallete": [
+        {
+         "color_name": "Silver",
+         "hex_color": "#C0C0C0"
+        }
+      ],      
+      "available_sizes": ["one size"],
+      "description": "Classic stud earrings featuring cushion cut 6mm Cubic Zirconia stones (2 cttw diamond equivalent) in four prong basket settings of platinum plated sterling silver.",
+      "material": "Hand-crafted in pure .925 Sterling Silver; Platinum plating added to enhance shine and durability"
+      "country_of_production": "UK",
+      "care": {
+          "bleach": false,
+          "trumble_dry": false,
+          "dry_clean": false, 
+          "use_iron": false
+      },
+      "main_category": "accessories",
+      "subcategories": ["earings"],
+      "new_arrival": true,
+      "image": "https://ae01.alicdn.com/kf/HTB13QnmahiH3KVjSZPfq6xBiVXaq/Female-Silver-Color-Stud-Earring-8mm-Round-AAA-Cubic-Zirconia-Earring-Quality-Stainless-Steel-Jewelry-Earring.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 4
+      }
+    },
+    {
+      "id": 7,
+      "brand": "21WN",
+      "title": "Triple Age Repair Anti-Aging Daily Facial Moisturizer with SPF 25",
+      "price": {
+        "total": 25,
+        "currency": "USD"
+      },
+      "pallete": [],      
+      "available_sizes": [],
+      "description": "This anti-aging face & neck cream with sunscreen helps protect skin from sun damage, and is formulated with broad spectrum UVA/UVB SPF 25 sunscreen to help prevent the signs of premature skin aging caused by the sun.",
+      "material": "Avobenzone 2%, Homosalate 4%, Octisalate 4%, Octocrylene 2%...Purpose: Sunscreen"
+      "country_of_production": "Montenegro",
+      "care": {
+          "bleach": false,
+          "trumble_dry": false,
+          "dry_clean": false, 
+          "use_iron": false
+      },
+      "main_category": "beauty",
+      "subcategories": ["cream"],
+      "new_arrival": true,
+      "image": "https://avatars.mds.yandex.net/i?id=1e5fac6f96c03766d8f69ce01b5743aa-4326678-images-thumbs&n=13",
+      "rating": {
+        "rate": 4.17,
+        "count": 3
       }
     }
   ],
