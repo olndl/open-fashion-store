@@ -232,22 +232,18 @@
   [
     {
       "category_id": 0,
-      "label": "all"
-    },
-    {
-      "category_id": 1,
       "label": "women"
     },
     {
-      "category_id": 2,
+      "category_id": 1,
       "label": "men"
     },
     {
-      "category_id": 3,
+      "category_id": 2,
       "label": "beauty"
     },
     {
-      "category_id": 4,
+      "category_id": 3,
       "label": "accessories"
     }
    ] 
